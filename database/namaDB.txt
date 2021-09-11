@@ -1,0 +1,3 @@
+LocalDatabase
+Db_name: sample_posts
+table: posts
